@@ -9,7 +9,7 @@ li t2 5
 
 # calculate and store the result of 't0 % t1' in t3
 remu t3 t0 t1
-# calculate and store the result of 't0 % t2' in t2
+# calculate and store the result of 't0 % t2' in t4
 remu t4 t0 t2
 
 # if both t3 and t4 are all zeros, t5 will also be all zeros
